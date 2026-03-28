@@ -1554,4 +1554,4 @@ After mastering GitHub Actions, consider exploring:
 ---
 
 *Guide generated with the MD Masterpiece Generator skill.*
-*Topic: GitHub Actions | Version: 1.0 | Author: Claude (Anthropic)*
+*Topic: GitHub Actions | Version: 1.0 | Author: Deb Barman*
